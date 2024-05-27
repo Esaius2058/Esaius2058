@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Esaius2058
 - 👀 I’m interested in full stack dev.
 
 <!---
