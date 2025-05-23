@@ -1,4 +1,4 @@
-- Check out my projects and maybe we could work on something.
+- hello world.
 
 <!---
 Esaius2058/Esaius2058 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
