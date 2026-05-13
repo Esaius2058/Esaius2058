@@ -1,6 +1,6 @@
 # I'm Isaiah
 
-> *"And God said, 'Let there be light,' and there was light."* — what if God was vibe coding?
+> *"And God said, 'Let there be light,' and there was light."*...Was God vibe coding?
 
 ### Programming Languages
 `TypeScript` `Java` `Python`
